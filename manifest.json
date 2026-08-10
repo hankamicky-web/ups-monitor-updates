@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "product": "ups-monitor-s3",
-  "version": "2.4.1",
-  "firmware_url": "https://github.com/hankamicky-web/ups-monitor-updates/releases/download/v2.4.1/ups-monitor-firmware.bin",
-  "sha256": "f02067774e36a2a6e073ed45fa78eed85c7ec859f8213d01acf5b86851c9be5f",
-  "size": 1543584,
-  "signature": "MEUCIQDBSGpQh8jF0Y3qvS1CIphhNbtlX9fXksmctlSRt9AQKgIgVZple57GYHB6IAsIcLQFlQB3YSBS5tevpisIDC5YTLA"
+  "version": "2.4.3",
+  "firmware_url": "https://github.com/hankamicky-web/ups-monitor-updates/releases/download/v2.4.3/ups-monitor-firmware.bin",
+  "sha256": "206c0d107c74643c93f71b17e64095350253fe14a758d11e1e78ce8646d93053",
+  "size": 1557952,
+  "signature": "MEQCIGeIadEuTQ87Qt9AxJ7Lb7D0lTx02oe6y6AR2x5wHO6aAiABzXkAwDYfZwxVNBb3CVzsFQdBzWayXYfkr_M8R3PQEw"
 }
